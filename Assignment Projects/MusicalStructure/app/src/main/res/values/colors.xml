@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#566573</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#17202A</color>
+
+    <!-- Background color for app -->
+    <color name="maroon_background">#800000</color>
+
+    <!-- Background color for the music category -->
+    <color name="category_all">#C0C0C0</color>
+
+</resources>

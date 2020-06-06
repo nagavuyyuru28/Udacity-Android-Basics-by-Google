@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Hyderabad - Tour Guide</string>
+
+    <!-- Category name for Attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for the vocabulary words for Events [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for the vocabulary words for Restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary words for Accommodation [CHAR LIMIT=20] -->
+    <string name="category_accommodation">Accommodation</string>
+
+    <!-- Acccommodation names -->
+    <string name="accommodation_hyatt">Hyatt</string>
+    <string name="accommodation_itc">ITC</string>
+    <string name="accommodation_lemeridian">Le Meridien</string>
+    <string name="accommodation_marriott">Marriott</string>
+    <string name="accommodation_novotel">Novotel</string>
+    <string name="accommodation_sheraton">Sheraton</string>
+    <string name="accommodation_tajkrishna">Taj Krishna</string>
+    <string name="accommodation_trident">Trident</string>
+
+    <!-- Acccommodation description -->
+    <string name="accommodation_description">5-star Hotel</string>
+
+    <!-- Restaurant names -->
+    <string name="restaurant_broadway">Broadway</string>
+    <string name="restaurant_olivebistro">Olive Bistro</string>
+    <string name="restaurant_10downing">10 Downing Street</string>
+    <string name="restaurant_abs">AB\'s</string>
+    <string name="restaurant_jewelofnizam">Jewel of Nizam</string>
+    <string name="restaurant_ohris">Ohris</string>
+    <string name="restaurant_paradise">Paradise</string>
+    <string name="restaurant_unitedkitchensofindia">United Kitchens of India</string>
+
+    <!-- Restaurant description -->
+    <string name="restaurant_casualbar">Casual Dining and Bar</string>
+    <string name="restaurant_casualdining">Casual Dining</string>
+    <string name="restaurant_cafe">Cafe</string>
+    <string name="restaurant_casualbrew">Casual Dining, Microbrewery</string>
+
+    <!-- Park names -->
+    <string name="park_zoopark">Nehru Zoological Park</string>
+    <string name="park_oceanpark">Ocean Park</string>
+    <string name="park_wonderla">Wonderla</string>
+    <string name="park_wildwaters">Wild Waters</string>
+
+    <!-- Park description -->
+    <string name="park_zoo">Zoological Park</string>
+    <string name="park_water">Water Park</string>
+    <string name="park_amusement">Amusement Park</string>
+
+    <!-- Attraction names -->
+    <string name="attraction_charminar">Charminar</string>
+    <string name="attraction_golconda">Golconda Fort</string>
+    <string name="attraction_birlamandir">Birla Mandir</string>
+    <string name="attraction_hussainsagar">Hussain Sagar</string>
+    <string name="attraction_qutubshahi">Qutub Shahi Tombs</string>
+    <string name="attraction_tajfalaknuma">Taj Falaknuma</string>
+    <string name="attraction_taramatibaradari">Taramati Baradari</string>
+
+    <!-- Attraction description -->
+    <string name="attraction_historical">Historical Site</string>
+    <string name="attraction_temple">Temple</string>
+    <string name="attraction_lake">Lake</string>
+
+</resources>

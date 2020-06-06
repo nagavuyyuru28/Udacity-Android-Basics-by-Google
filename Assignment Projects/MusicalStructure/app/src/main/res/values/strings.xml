@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SONGS HUB</string>
+
+    <string name="category_hname">Find the music you love</string>
+
+    <!-- Category name for browse music -->
+    <string name="category_music">Browse Music</string>
+
+    <!-- Category name for podcasts -->
+    <string name="category_podcasts">Podcasts</string>
+
+    <!-- Category name for the Artists -->
+    <string name="category_artists">Artists</string>
+</resources>
